@@ -1,19 +1,8 @@
-# at_work_central_factory_hub_comm
-Communication with the RoCKIn@Work Central Factory Hub.
+# Important Information
+This repository has been moved to a new location:
 
-### Installation
+     https://github.com/industrial-robotics/atwork_refbox_comm
 
-    cd <catkin_workspace>/src
-    git clone git@github.com:rockin-robot-challenge/at_work_central_factory_hub_comm.git
+This repository will be deleted soon. Be aware that also your fork will be gone by then. So, please change your fork/remote to the new location.
 
-### Fetch the git submodules
-
-    cd at_work_central_factory_hub
-    git submodule update
-    git submodule init
-
-### run catkin_make in your catkin_workspace
-
-    cd <catkin_workspace>
-    catkin_make
-
+Thank you for your cooperation.
